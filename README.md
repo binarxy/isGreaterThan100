@@ -1,7 +1,7 @@
 # isGreaterThan100
 It's just a joke bro, don't be serious.
 
-first, just Install it wiht :
+first, just Install it with :
 
 ```sh
 npm install isgreaterthan100
